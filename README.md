@@ -1,6 +1,6 @@
 ## Hi, I'm Bowen Slingluff 👋
 
-[![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcslingluff)](https://github.com/bcslingluff/github-readme-stats)
+[![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowenslingluff)](https://github.com/bowenslingluff/github-readme-stats)
 
 <!--
 **bcslingluff/bcslingluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
