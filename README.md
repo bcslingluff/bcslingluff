@@ -1,5 +1,7 @@
 ## Hi, I'm Bowen Slingluff 👋
 
+### Check out my stuff, https://bowenslingluff.github.io/
+
 
 <!--
 **bcslingluff/bcslingluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
